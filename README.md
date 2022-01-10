@@ -10,7 +10,8 @@ Just arch user with big dreams 🌺<br>
 You can find me here:<br>
 Instagram : <a href="https://instagram.com/fazriachyar" target="blank">@fazriachyar</a><br>
 WhatsApp : <a href="https://wa.me/62895411801623?text=Hello%20Fazri%20!" target="blank">+62895-4118-01623</a><br>
-Telegram : <a href="https://t.me/fazriachyar" target="blank">@fazriachyar</a>
+Telegram : <a href="https://t.me/fazriachyar" target="blank">@fazriachyar</a><br>
+Gmail : <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=fazriachyar666@gmail.com" target="blank">fazriachyar666@gmail.com</a>
 
 #### My Overview ####
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazriachyar&theme=tokyonight&show_icons=true)
