@@ -1,3 +1,4 @@
+## Hello World!, I'm Fazri 😁 ##
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://data.whicdn.com/images/306756795/original.gif" height="300" /></a>
 
