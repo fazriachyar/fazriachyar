@@ -1,7 +1,10 @@
 ## Hello World!, I'm Fazri 😁 ##
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://data.whicdn.com/images/306756795/original.gif" height="300" /></a>
-
+<br>
+Hello world! My Name is Fazri, welcome to my proflie 😁,<br>
+You can find me here:<br>
+Instagram : <a href="https://instagram.com/fazriachyar" target="blank">Instagram</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazriachyar&theme=tokyonight&show_icons=true)
 
