@@ -1,5 +1,5 @@
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C++/Sakura_Nene_CPP.jpg" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://data.whicdn.com/images/306756795/original.gif" height="300" /></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazriachyar&theme=tokyonight&show_icons=true)
