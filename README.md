@@ -5,7 +5,7 @@
 Hello world! My Name is Fazri 🌊<br>
  Welcome to my profile 😁,<br>
 You can find me here:<br>
-Instagram : <a href="https://instagram.com/fazriachyar" target="blank">Instagram</a>
+Instagram : <a href="https://instagram.com/fazriachyar" target="blank">Instagram</a><br>
 WhatsApp : <a href="https://wa.me/62895411801623?text=Hello%20Fazri%20!" target="blank">+62895-4118-01623</a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazriachyar&theme=tokyonight&show_icons=true)
