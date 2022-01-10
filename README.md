@@ -1,9 +1,9 @@
 ## Hello World!, I'm Fazri 😁 ##
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://data.whicdn.com/images/306756795/original.gif" height="300" /></a>
-<br>
-Hello world! My Name is Fazri 🌊<br>
- Welcome to my profile 😁,<br>
+<br><br>
+#### Hello world! My Name is Fazri 🌊 ####<br>
+Welcome to my profile 😁,<br>
 You can find me here:<br>
 Instagram : <a href="https://instagram.com/fazriachyar" target="blank">@fazriachyar</a><br>
 WhatsApp : <a href="https://wa.me/62895411801623?text=Hello%20Fazri%20!" target="blank">+62895-4118-01623</a>
