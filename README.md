@@ -3,7 +3,7 @@
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://data.whicdn.com/images/306756795/original.gif" height="300" /></a>
 <br><br>
 
-####Personal Information####
+#### Personal Information ####
 Hello world! My Name is Fazri 🌊<br>
 Welcome to my profile 😁,<br>
 Just arch user with big dreams 🌺<br>
