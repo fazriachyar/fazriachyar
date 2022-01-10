@@ -4,7 +4,7 @@
 <br><br>
 
 #### Personal Information ####
-Hello world! My Name is Fazri 🌊<br>
+Hello world! My Name is Fazri Achyar Rozaq, just call me "Fazri" 🌊<br>
 Welcome to my profile 😁,<br>
 Just arch user with big dreams 🌺<br>
 You can find me here:<br>
