@@ -1,13 +1,10 @@
-## Hello World!, I'm Fazri 😁 ##
+## Hello World!##
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://data.whicdn.com/images/306756795/original.gif" height="300" /></a>
 <br><br>
 
 #### Personal Information ####
-Hello everyone! My Name is Fazri 🌊<br>
-Welcome to my profile 😁,<br>
-Just arch user with dreams as programmer🌺<br>
-You can find me here:<br>
+I'm Fazri, a student, Linux enthusiast and Haskeller. (Also a ricer.)
 Instagram : <a href="https://instagram.com/fazriachyar" target="blank">@fazriachyar</a><br>
 Gmail : <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=fazriachyar666@gmail.com" target="blank">fazriachyar666@gmail.com</a>
 <br>
