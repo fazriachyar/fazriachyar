@@ -4,7 +4,7 @@
 <br><br>
 
 #### Personal Information ####
-I'm Fazri, a student, Linux enthusiast and Haskeller. (Also a ricer.)<br>
+fazriachyar
 Instagram : <a href="https://instagram.com/fazriachyar" target="blank">@fazriachyar</a><br>
 Gmail : <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=fazriachyar666@gmail.com" target="blank">fazriachyar666@gmail.com</a>
 <br>
