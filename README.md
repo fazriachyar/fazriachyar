@@ -11,4 +11,3 @@ Gmail : <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=fazriach
 #### Current Streak ####
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fazriachyar&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br>
 <br>
-[![Fazri's github activity graph](https://activity-graph.herokuapp.com/graph?username=fazriachyar)](https://github.com/ashutosh00710/github-readme-activity-graph)
