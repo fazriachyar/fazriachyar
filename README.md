@@ -8,17 +8,12 @@
 I'm Fazri Achyar, Student of Informatics Engineering in Universitas Pamulang. My passion for both software and hardware behind it stems from having been fortunate enough to be introduced to it at a young age. Since 2020 I started studied programming start from frontend web basic and until now i have learn so many things and I'll never stop.
 <br><br>
 
-#### Contact Person ####
+#### :telephone: Contact Person 
 
 <a href="https://instagram.com/fazriachyar" target="blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white"></a>
 <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=fazriachyar666@gmail.com" target="blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/fazri-achyar-0249381b8/" target="blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white"></a><br>
 
-
-
-
-#### Current Streak ####
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fazriachyar&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
@@ -27,8 +22,6 @@ I'm Fazri Achyar, Student of Informatics Engineering in Universitas Pamulang. My
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
-<br>
-<br>
 
 ### 👨Programming and markup languages ####
 
@@ -87,3 +80,6 @@ I'm Fazri Achyar, Student of Informatics Engineering in Universitas Pamulang. My
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
+#### Current Streak ####
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fazriachyar&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
