@@ -1,6 +1,11 @@
-## Hello World! ##
-
-<a href="URL_REDIRECT" target="https://instagram.com/fazriachyar"><img align="center" src="https://data.whicdn.com/images/306756795/original.gif" height="300" /></a>
+<h3 align="center">
+  Welcome to Fazri Achyar's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <a href="https://github.com/fazriachyar"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+</p>
+I'm Fazri Achyar, Student of Informatics Engineering in Universitas Pamulang. My passion for both software and hardware behind it stems from having been fortunate enough to be introduced to it at a young age. Since 2020 I started studied programming start from frontend web basic and until now i have learn backend programming with golang or php.
 <br><br>
 
 #### Contact Person ####
@@ -8,6 +13,7 @@
 <a href="https://instagram.com/fazriachyar" target="blank"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white"></a><br>
 <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=fazriachyar666@gmail.com" target="blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white"></a>
 <br>
+<a href="https://www.linkedin.com/in/fazri-achyar-0249381b8/" target="blank"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white"></a><br>
 
 
 
