@@ -6,7 +6,12 @@
   <a href="https://github.com/fazriachyar"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
 </p>
 I'm Fazri Achyar, Student of Informatics Engineering in Universitas Pamulang. My passion for both software and hardware behind it stems from having been fortunate enough to be introduced to it at a young age. Since 2020 I started studied programming start from frontend web basic and until now i have learn so many things and I'll never stop.
-<br><br>
+<br>
+<br>
+
+[![@fazriachyar's Holopin board](https://holopin.me/fazriachyar)](https://holopin.io/@fazriachyar)
+
+
 
 #### :telephone: Contact Person 
 
@@ -84,4 +89,4 @@ I'm Fazri Achyar, Student of Informatics Engineering in Universitas Pamulang. My
 #### Current Streak ####
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fazriachyar&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![@fazriachyar's Holopin board](https://holopin.me/fazriachyar)](https://holopin.io/@fazriachyar)
+
